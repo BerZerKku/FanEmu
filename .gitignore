@@ -8,6 +8,7 @@
 AUTOSAVE*.*
 *.txt
 *.log
+*.tag
 
 log/
 signoise.run/
