@@ -1,0 +1,13 @@
+*.dml
+*.drc
+*.DSNlck
+*.dbk
+*.opj
+*.*,*
+*.dat
+AUTOSAVE*.*
+*.txt
+*.log
+
+log/
+signoise.run/
